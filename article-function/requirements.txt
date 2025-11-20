@@ -1,0 +1,4 @@
+gunicorn==21.*
+google-cloud-bigquery==3.*
+google-cloud-aiplatform==1.*
+flask==3.*
